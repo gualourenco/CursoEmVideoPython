@@ -1,7 +1,7 @@
 # Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo, desconsiderando os espaços
 # Ex: Apos a Sopa
 
-frase = str(input('Digite uma frase no verificador de palindromo:\n'))
+frase = str(input('Digite uma frase no verificador de palindromo:\n')).strip().upper()
 nova = frase.replace(' ', '')
 b = -1
 cont = len(nova)
