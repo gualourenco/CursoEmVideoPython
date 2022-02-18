@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="a4008afc-a3e5-4fb8-a941-7a8e04baa02d" name="Changes" comment="atualização em alguns códigos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex006.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex006/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex046.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex046.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex047.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex047.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex048.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex048.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex049.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex049.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex051.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex051.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex052.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex052.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +45,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.ex053">
-    <configuration name="ex049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex052">
+    <configuration name="ex046" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex049.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex046.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="teste" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -74,7 +79,28 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex050.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex047.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="teste" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex048.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,27 +151,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex053" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="teste" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex053.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="teste" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex053" />
         <item itemvalue="Python.ex052" />
         <item itemvalue="Python.ex051" />
-        <item itemvalue="Python.ex050" />
-        <item itemvalue="Python.ex049" />
+        <item itemvalue="Python.ex048" />
+        <item itemvalue="Python.ex047" />
+        <item itemvalue="Python.ex046" />
       </list>
     </recent_temporary>
   </component>
@@ -186,6 +191,29 @@
       <option name="presentableId" value="Default" />
       <updated>1644941108978</updated>
     </task>
+    <task id="LOCAL-00001" summary="atualização em alguns códigos">
+      <created>1644961504471</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644961504471</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualização em alguns códigos" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualização em alguns códigos" />
   </component>
 </project>
