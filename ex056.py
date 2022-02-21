@@ -3,17 +3,14 @@
 # - Qual é o nome do homem mais velho.
 # - Quantas mulheres tem menos de 20 anos.
 
-# pessoa1 = [str(input('Nome: ')), int(input('Idade: ')), str(input('Sexo: '))]
-# pessoa2 = [str(input('Nome: ')), int(input('Idade: ')), str(input('Sexo: '))]
-# pessoa3 = [str(input('Nome: ')), int(input('Idade: ')), str(input('Sexo: '))]
-# pessoa4 = [str(input('Nome: ')), int(input('Idade: ')), str(input('Sexo: '))]
 pessoas = []
 homemvelho = 0
 nomehomem = ''
 mulheresnovas = 0
 media = 0
 
-while len(pessoas) <= 4:
+while len(pessoas) < 4:
+    print(f'--- {len(pessoas)+1} Pessoa ---')
     pessoa = [str(input('Nome: ')), int(input('Idade: ')), str(input('Sexo: '))]
     pessoas.append(pessoa)
 

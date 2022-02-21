@@ -4,7 +4,7 @@
 lista = []
 
 while len(lista) < 5:
-    c = int(input('Insira um peso na lista: '))
+    c = float(input(f'Insira o {len(lista)+1}° peso na lista: '))
     lista.append(c)
 
 print(f'O maior peso da lista foi {max(lista)} e o menor foi {min(lista)}')

@@ -14,3 +14,17 @@ for c in range(0, len(nova)):
             print(f'A frase {frase} é palindromo')
     else:
         print(f'A frase {frase}, não é palindromo')
+
+# ou
+
+palavras = frase.split()
+junto = ''.join(palavras)
+inverso = ''
+inverso2 = junto[::-1]
+for letra in range(len(junto) - 1, -1, -1):
+    inverso += junto[letra]
+print(f'O inverso de {junto} é {inverso}')
+if inverso2 == junto:
+    print('Temos um palíndromo!')
+else:
+    print('A frase digitada não é um palíndromo')
